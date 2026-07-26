@@ -22,7 +22,7 @@ Built to precisely match field terminal ullage report sequences. Automatically i
 
 ### 📊 4. OPEC Compliance & Allocation Tracker
 An executive auditing dashboard that evaluates a facility's daily net standard production run against assigned corporate daily OPEC allocation quotas, computing live consumption metrics and safety margins.
-👉 **[Launch Live OPEC Tracker App](https://ci-arts.github.io/eazi-opec-tracker/)**
+👉 **[Launch Live OPEC Tracker App](https://CI-Arts.github.io/eazi-opec-tracker/)**
 
 ---
 
